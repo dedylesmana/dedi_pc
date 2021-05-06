@@ -1,4 +1,4 @@
-Git PC
+From GitHub
 ================
 M. Dedy Lesmana
 6/5/2021
@@ -29,7 +29,7 @@ summary(cars)
 
 You can also embed plots, for example:
 
-![](README_files/figure-gfm/pressure-1.png)<!-- -->
+![](Readme_files/figure-gfm/pressure-1.png)<!-- -->
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
